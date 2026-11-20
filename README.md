@@ -59,11 +59,10 @@
 ## Структура проекта
 
 ```
-index.html   # всё приложение: разметка, стили и скрипты
+JC_GIT.html   # всё приложение: разметка, стили и скрипты
 LICENSE
 README.md	
 CONTRIBUTING.md
-JC_GIT.html
 charts.js
 webgl.js
 ```
